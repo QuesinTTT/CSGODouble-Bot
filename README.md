@@ -10,5 +10,4 @@ Install:
 
 4. Let go of your keyboard and mouse and watch the money rain ;)
 
-![Screenshot](http://i.imgur.com/JyhVpWt.png)
 ![Screenshot](http://i.imgur.com/eSln22D.png)
