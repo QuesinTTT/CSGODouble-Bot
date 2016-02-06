@@ -9,3 +9,6 @@ Install:
 3. Copy the script from the CSGODoubleBot file into the console and press enter
 
 4. Let go of your keyboard and mouse and watch the money rain ;)
+
+![Screenshot](http://i.imgur.com/JyhVpWt.png)
+![Screenshot](http://i.imgur.com/eSln22D.png)
